@@ -91,7 +91,7 @@
         "\u0393\u03ba\u03ac\u03bd\u03b3\u03bf\u03c5\u03bf\u03bd-\u03bd\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
-        "Kangwon-Do"
+        "Gangwon"
     ],
     "name:eng_x_variant":[
         "Gangwon",
@@ -99,7 +99,6 @@
         "Gangwondo",
         "Kangwon",
         "Kangwondo",
-        "Gangwon-do",
         "Gangwon Province",
         "Gangwon State"
     ],
@@ -387,7 +386,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7824e64c987129142a26420fbbce7c01",
+    "wof:geomhash":"8df4cef062331cd46644ac7a8f2dabe4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -402,7 +401,7 @@
     "wof:lang_x_spoken":[
         "kor"
     ],
-    "wof:lastmodified":1695884673,
+    "wof:lastmodified":1738776310,
     "wof:name":"Gangwon",
     "wof:parent_id":85632231,
     "wof:placetype":"region",
